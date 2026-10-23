@@ -1,5 +1,5 @@
 ### Configurações de Variáveis Locais do REST Client
-@baseUrl = http://localhost:8080
+@baseUrl = http://localhost:8082
 @contentType = application/json
 
 ### 1. Criar Primeiro Usuário (Ana Silva)
